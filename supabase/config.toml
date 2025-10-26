@@ -1,1 +1,4 @@
 project_id = "edhiyrtzmorelofvozmu"
+
+[functions.judge-ai-assistant]
+verify_jwt = true
